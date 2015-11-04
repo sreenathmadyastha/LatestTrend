@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJSPart", "AngularJSPart\AngularJSPart.csproj", "{AEB23537-B029-445D-B132-B0F2C009FC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiWithEntity", "..\SignalR\WebApiWithEntity\WebApiWithEntity.csproj", "{A3E3A888-D501-4967-9B26-2DB66C26F38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB23537-B029-445D-B132-B0F2C009FC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB23537-B029-445D-B132-B0F2C009FC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB23537-B029-445D-B132-B0F2C009FC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB23537-B029-445D-B132-B0F2C009FC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E3A888-D501-4967-9B26-2DB66C26F38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E3A888-D501-4967-9B26-2DB66C26F38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E3A888-D501-4967-9B26-2DB66C26F38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E3A888-D501-4967-9B26-2DB66C26F38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
